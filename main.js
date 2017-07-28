@@ -41,7 +41,10 @@ for (var i = 0; i < students.length; i++) {
 
 /* PROBLEM 4: Print - Meghan is older than 25 Trent is older than 25 */
 
-// for (var i = 0; i <= 2; i++)
+// for (var i = 0; i <= 2; i++) {
 //     if (students[i].age > 25) {
 //         console.log(students[i].name + ' is older than 25');
 //     }
+// }
+
+// July 28, 2017 : FIXED aboved for loop by adding curly brackets. 
